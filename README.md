@@ -11,7 +11,8 @@
 <img width="1868" height="933" alt="Capture d&#39;écran 2026-02-18 212922" src="https://github.com/user-attachments/assets/4af39cb4-3bb3-4d69-b823-edc05cd3c5ea" />
 <img width="1879" height="938" alt="Capture d&#39;écran 2026-02-18 212935" src="https://github.com/user-attachments/assets/71867cc3-98b8-4a45-9610-c62d257c41f4" />
 <img width="1866" height="922" alt="Capture d&#39;écran 2026-02-18 212948" src="https://github.com/user-attachments/assets/27467851-acbc-45ed-99df-b7e1825fd52b" />
-Le projet démontre l’utilisation de Hibernate JPA pour :
+
+## Le projet démontre l’utilisation de Hibernate JPA pour :
 
 la création automatique des tables
 
@@ -19,11 +20,11 @@ la gestion des entités
 
 l’exécution des opérations CRUD
 
-l’utilisation d’une base de données H2 en mémoire
+l’utilisation d’une base de données en mémoire
 
-Tests Unitaires:
+## Tests Unitaires:
 
-   Les tests vérifient :
+   ### Les tests vérifient :
 
 la création des entités
 
