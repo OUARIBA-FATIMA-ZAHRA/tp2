@@ -20,3 +20,15 @@ la gestion des entités
 l’exécution des opérations CRUD
 
 l’utilisation d’une base de données H2 en mémoire
+
+Tests Unitaires:
+
+   Les tests vérifient :
+
+la création des entités
+
+la recherche
+
+la mise à jour
+
+la suppression
