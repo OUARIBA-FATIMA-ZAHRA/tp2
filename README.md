@@ -1,4 +1,4 @@
-TP 2 : Entités Salle et Utilisateur avec Hibernate
+# TP 2 : Entités Salle et Utilisateur avec Hibernate
 <img width="1909" height="1016" alt="Capture d&#39;écran 2026-02-18 211753" src="https://github.com/user-attachments/assets/3faca1e9-b7b9-41fa-9a74-ec80e6d9ead3" />
 <img width="1919" height="1013" alt="Capture d&#39;écran 2026-02-18 211810" src="https://github.com/user-attachments/assets/0027e58a-f9f6-4bb2-8a51-5bebbe67e7ef" />
 <img width="1917" height="1013" alt="Capture d&#39;écran 2026-02-18 211825" src="https://github.com/user-attachments/assets/b38688ee-a8e5-4cb1-9a99-80d7a83f1631" />
@@ -11,3 +11,12 @@ TP 2 : Entités Salle et Utilisateur avec Hibernate
 <img width="1868" height="933" alt="Capture d&#39;écran 2026-02-18 212922" src="https://github.com/user-attachments/assets/4af39cb4-3bb3-4d69-b823-edc05cd3c5ea" />
 <img width="1879" height="938" alt="Capture d&#39;écran 2026-02-18 212935" src="https://github.com/user-attachments/assets/71867cc3-98b8-4a45-9610-c62d257c41f4" />
 <img width="1866" height="922" alt="Capture d&#39;écran 2026-02-18 212948" src="https://github.com/user-attachments/assets/27467851-acbc-45ed-99df-b7e1825fd52b" />
+Le projet démontre l’utilisation de Hibernate JPA pour :
+
+la création automatique des tables
+
+la gestion des entités
+
+l’exécution des opérations CRUD
+
+l’utilisation d’une base de données H2 en mémoire
